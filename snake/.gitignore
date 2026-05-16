@@ -1,0 +1,15 @@
+# Build outputs
+*.exe
+*.obj
+*.o
+
+# Debug symbols and linker artifacts
+*.pdb
+*.ilk
+*.map
+
+# Local editor/system files
+.vscode/
+.vs/
+Thumbs.db
+Desktop.ini
